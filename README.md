@@ -5,6 +5,8 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/MeghnaW19/codecov-demo/badge.svg?branch=master)](https://coveralls.io/github/MeghnaW19/codecov-demo?branch=master)
 
+[![Build Status](https://travis-ci.org/MeghnaW19/codecov-demo.svg?branch=master)](https://travis-ci.org/MeghnaW19/codecov-demo)
+
 This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
 
 You can learn about my Spring Framework 5 Online course [here.](http://courses.springframework.guru/p/spring-framework-5-begginer-to-guru/?product_id=363173)
