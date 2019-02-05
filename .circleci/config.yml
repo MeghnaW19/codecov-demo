@@ -19,7 +19,6 @@ jobs:
     environment:
       # Customize the JVM maximum heap limit
       MAVEN_OPTS: -Xmx3200m
-      repo_token: 6Jte6yBJ6E4dYJ488fi4TI7o30Y1PFocS
 
     steps:
       - checkout
