@@ -7,6 +7,7 @@
 	<artifactId>spring5-mysql-recipe-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
+	
 
 <!-- 	<name>spring5-recipe-app</name>
 	<description>Recipe Application</description> -->
